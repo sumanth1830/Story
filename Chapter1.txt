@@ -1,0 +1,2 @@
+How are you doing?
+This is our first Git lesson
